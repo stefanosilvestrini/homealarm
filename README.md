@@ -1,4 +1,4 @@
-# homealarm
+# homealarm project
 
 ### /ignore/conf_remote.php ###
 
@@ -15,3 +15,5 @@ $post_data_str = file_get_contents("php://input");
 * define('MAKER_TRIGGER_ON',          '');
 * define('MAKER_TRIGGER_OFF',         '');
 * define('MAKER_TRIGGER_CHECK',       '');
+
+[example](https://www.dropbox.com/s/y5614ruwg8cciom/Screenshot%202016-09-15%2012.21.37.png?dl=0)	
